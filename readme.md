@@ -1,3 +1,4 @@
 # Demo-repo
 
-this is a repo for 
+
+THIS IS A REPOSITORY FOR LEARNING GIT & GITHUB
